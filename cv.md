@@ -3,7 +3,7 @@
 # Personal information:   
 # Nurlan Khassanov
 
-![CV photo](/photo.jpeg/150x100 "My photo")  
+![CV photo](/photo.jpeg"My photo")  
 
 # Contacts
 
