@@ -7,11 +7,11 @@
 
 # Contacts
 
-## adress:  ### 29/1 Kunaeva, 010000 Astana (Kazakhstan)
-## phone:  ### +7 777 039 56 95 
-## e-mail: ### hasanov85@gmail.com
-## Linkedin: ### https://www.linkedin.com/in/nurlan-khassanov-aba9b1123/
-## Github    ### https://github.com/khassanov
+## adress:  29/1 Kunaeva, 010000 Astana (Kazakhstan)
+## phone:  +7 777 039 56 95 
+## e-mail:  hasanov85@gmail.com
+## Linkedin: https://www.linkedin.com/in/nurlan-khassanov-aba9b1123/
+## Github:   https://github.com/khassanov
 
 
 # Summary 
