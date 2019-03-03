@@ -3,7 +3,7 @@
 # Personal information:   
 # Nurlan Khassanov
 
-![CV photo](//https://github.com/khassanov/rsschool-2019Q1-cv/blob/gh-pages/photo.jpeg "My photo")  
+![CV photo](https://github.com/khassanov/rsschool-2019Q1-cv/blob/gh-pages/photo.jpeg)  
 
 # Contacts
 
