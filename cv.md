@@ -1,36 +1,36 @@
-#Junior Web Developer
+# Junior Web Developer
 
-#Personal information:   
-#Nurlan Khassanov
+# Personal information:   
+# Nurlan Khassanov
 
 ![CV photo](photo.jpeg/150x100 "My photo")  
 
-#Contacts
+# Contacts
 
-##adress:  ##29/1 Kunaeva, 010000 Astana (Kazakhstan)
-##phone:  ##+7 777 039 56 95 
-##e-mail: ##hasanov85@gmail.com
-##Linkedin: ##https://www.linkedin.com/in/nurlan-khassanov-aba9b1123/
-##Github    ##https://github.com/khassanov
+## adress:  ## 29/1 Kunaeva, 010000 Astana (Kazakhstan)
+## phone:  ## +7 777 039 56 95 
+## e-mail: ##hasanov85@gmail.com
+## Linkedin: ##https://www.linkedin.com/in/nurlan-khassanov-aba9b1123/
+## Github    ##https://github.com/khassanov
 
 
-#Summary 
+# Summary 
 
 My objective is to learn create and maintain optimally functional websites and applications as tools in achieving the companyâ€™s mission and vision. This being said, I look forward to becoming a useful part of the company.
 
-#Education
+# Education
 
-##KARAGANDA STATE TECHNICAL UNIVERSITY, Karaganda (Kazakhstan)
+## KARAGANDA STATE TECHNICAL UNIVERSITY, Karaganda (Kazakhstan)
 
-###5В070400 «Computing engineering and software» 
+### 5В070400 «Computing engineering and software» 
 
-#English
+# English
 
 | Listening | Reading | Speaking  | Writing |
 |-----------|---------|-----------|---------|
 |    A2     |    A2   |     A2    |    A2   |
 
-#Skills 
+# Skills 
 * HTML5 & CSS3
 * Bootstrap
 * BEM methodology
@@ -46,7 +46,7 @@ My objective is to learn create and maintain optimally functional websites and a
 * Github
 * MySQL 
 
-#Projects 
+# Projects 
 
 * Test task from Devir LLP : https://github.com/khassanov/DEVIRCRUD
 
